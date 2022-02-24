@@ -3,7 +3,7 @@
 <title>Scaffold#1</title>
 </head>
   
-<body background="Background.jpeg">
+<body background="Background.jfif">
 <font color=white>
 <h1 align =center>PERFORMANCE TASK'S</h1>
 </font>
