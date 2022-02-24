@@ -4,14 +4,17 @@
 </head>
   
 <body background="Background.jfif">
-<font color=white>
+<font color=yellow>
 <h1 align =center>PERFORMANCE TASK'S</h1>
 </font>
 <hr>
 <center>
+<table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<h1 align =center>CAE</h1>
+<th>CAE</h1>
 <h1 align =center>Ms. Apple Agsam Egusquiza</h1>
+</table>
+</center>
 <br>
 <br>
 <br>
@@ -28,9 +31,12 @@
 </center>
 <hr>
 <center>
+<table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<h1 align =center>MATH</h1>
+<th>MATH</th>
 <h1 align =center>Sir. Pax Valor</h1>
+</table>
+</center>
 <br>
 <br>
 <br>
@@ -47,9 +53,12 @@
 </center>
 <hr>
 <center>
+<table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<h1 align =center>CLE</h1>
+<th>CLE</th>
 <h1 align =center>Sir. Karlo Villanueva</h1>
+  </table>
+  </center>
 <br>
 <br>
 <br>
@@ -66,7 +75,7 @@
 </center>
 <hr>
 <center>
-<font color=white>
+<font color=orange>
 <h1 align =center>Group 8 Members</h1>
 <h1 align =center>Jeyhro Sampollo</h1>
 <h1 align =center>Christian Colasisang</h1></body>
