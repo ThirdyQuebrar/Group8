@@ -11,7 +11,7 @@
 <center>
 <table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<th>CAE</h1>
+<th>CAE</th>
 <h1 align =center>Ms. Apple Agsam Egusquiza</h1>
 </table>
 </center>
