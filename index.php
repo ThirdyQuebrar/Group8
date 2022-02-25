@@ -33,7 +33,7 @@
 <center>
 <table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<th>MATH</th>
+<th><a href="https://youtu.be/5jeKqAJyRuU"><center><h1>CLICK HERE TO WATCH THE MESSAGE OF HOPE VIDEO</h1></center></a>MATH</th>
 <h1 align =center>Sir. Pax Valor</h1>
 </table>
 </center>
