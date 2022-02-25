@@ -55,7 +55,7 @@
 <center>
 <table border=5 bgcolor=lightgray width=30%>
 <font color=white>
-<th>CLE</th>
+  <th><a href="PT-CLE.html">CLE</a></th>
 <h1 align =center>Sir. Karlo Villanueva</h1>
   </table>
   </center>
